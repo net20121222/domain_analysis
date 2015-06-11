@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE WebReport PUBLIC>
+<WebReport author="miaolian">
+  <domain URL="i4.mopimg.cn">
+    <type ConnectType="image/gif">
+      <headers URL="http://i4.mopimg.cn/home/images/logo.gif" name="Cache-Control">max-age=604800</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">3439</headers>
+      <headers name="Expires">Thu, 18 Jun 2015 01:09:58 GMT</headers>
+      <headers name="Last-Modified">Thu, 04 Jun 2015 08:09:58 GMT</headers>
+    </type>
+    <type ConnectType="image/jpeg">
+      <headers URL="http://i4.mopimg.cn/img/cms-web/2015-06/35/20150610114421383.jpg155x120.jpg" name="Cache-Control">max-age=604800</headers>
+      <headers URL="http://i4.mopimg.cn/img/cms-web/2015-06/58/20150608141628533.jpg150x100.jpg" name="Cache-Control">max-age=2592000</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">48695</headers>
+      <headers name="Expires">Wed, 17 Jun 2015 15:54:07 GMT</headers>
+      <headers name="Last-Modified">Wed, 10 Jun 2015 03:44:21 GMT</headers>
+    </type>
+  </domain>
+  <domain URL="pos.baidu.com">
+    <type ConnectType="application/x-shockwave-flash">
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">157</headers>
+      <headers name="Last-Modified">Tue, 09 Jun 2015 03:55:19 GMT</headers>
+    </type>
+    <type ConnectType="text/javascript;charset=UTF-8">
+      <headers URL="http://pos.baidu.com/acom?di=u1630147&amp;dcb=BAIDU_DUP2_define&amp;dtm=BAIDU_DUP2_SETJSONADSLOT&amp;dbv=0&amp;dci=0&amp;dri=0&amp;dis=3&amp;dai=1&amp;dds=&amp;drs=1&amp;dvi=1432188695&amp;ltu=http%3A%2F%2Fwww.mop.com%2F&amp;liu=http%3A%2F%2Fpub.mop.com%2Fwidget.jsp%3FbId%3D2425&amp;ltr=http%3A%2F%2Fwww.mop.com%2F&amp;lcr=&amp;ps=0x0&amp;psr=1366x768&amp;par=1366x728&amp;pcs=660x90&amp;pss=660x90&amp;pis=660x90&amp;cfv=17&amp;ccd=24&amp;chi=1&amp;cja=true&amp;cpl=0&amp;cmi=0&amp;cce=true&amp;col=zh-CN&amp;cec=utf-8&amp;cdo=-1&amp;tsr=78&amp;tlm=1433991568&amp;tcn=1433991568&amp;tpr=1433991568452&amp;dpt=none&amp;coa=&amp;ti=&amp;baidu_id=" name="Cache-Control">post-check=0, pre-check=0</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">553</headers>
+      <headers name="Expires">Mon, 26 Jul 1997 05:00:00 GMT</headers>
+      <headers name="Last-Modified">Thu Jun 11 10:58:38 2015</headers>
+      <headers name="Content-Encoding">gzip</headers>
+    </type>
+    <type ConnectType="text/html">
+      <headers URL="http://pos.baidu.com/acom?adn=0&amp;at=128&amp;aurl=&amp;cad=1&amp;ccd=24&amp;cec=utf-8&amp;cfv=17&amp;ch=0&amp;col=zh-CN&amp;conOP=0&amp;cpa=1&amp;dai=1&amp;dis=3&amp;layout_filter=rank%2Cimage&amp;ltr=http%3A%2F%2Fwww.mop.com%2F&amp;ltu=http%3A%2F%2Fwww.mop.com%2F&amp;lunum=6&amp;n=mopad_cpr&amp;pcs=660x90&amp;pis=660x90&amp;ps=0x0&amp;psr=1366x768&amp;pss=660x90&amp;qn=afa19a905cf80817&amp;rad=&amp;rsi0=660&amp;rsi1=90&amp;rsi5=4&amp;rss0=&amp;rss1=&amp;rss2=&amp;rss3=&amp;rss4=&amp;rss5=&amp;rss6=&amp;rss7=&amp;scale=&amp;skin=tabcloud_skin_6&amp;stid=5&amp;td_id=1630147&amp;tn=baiduCustSTagLinkUnit&amp;tpr=1433991568452&amp;ts=1&amp;version=2.0&amp;xuanting=0&amp;dtm=BAIDU_DUP2_SETJSONADSLOT&amp;dc=2&amp;di=u1630147&amp;ti=&amp;tt=1433991568357.96.269.272" name="Cache-Control">post-check=0, pre-check=0</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">1394</headers>
+      <headers name="Expires">Mon, 26 Jul 1997 05:00:00 GMT</headers>
+      <headers name="Last-Modified">Tue, 09 Jun 2015 03:55:19 GMT</headers>
+      <headers name="Content-Encoding">gzip</headers>
+    </type>
+  </domain>
+  <domain URL="cm.pos.baidu.com">
+    <type ConnectType="text/html">
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">0</headers>
+      <headers name="Expires">Mon, 26 Jul 1997 05:00:00 GMT</headers>
+    </type>
+  </domain>
+  <domain URL="dup.baidustatic.com">
+    <type ConnectType="application/x-javascript">
+      <headers URL="http://dup.baidustatic.com/tpl/ac.js" name="Cache-Control">max-age=300</headers>
+      <headers name="Connection">close</headers>
+      <headers name="Expires">Thu, 11 Jun 2015 03:00:29 GMT</headers>
+      <headers name="Last-Modified">Thu, 04 Jun 2015 05:32:34 GMT</headers>
+      <headers name="Content-Encoding">gzip</headers>
+    </type>
+  </domain>
+  <domain URL="log.hm.baidu.com">
+    <type ConnectType="image/gif">
+      <headers URL="http://log.hm.baidu.com/hm.gif?cc=1&amp;ck=1&amp;cl=24-bit&amp;ds=1366x768&amp;ep=%7B%22netAll%22%3A304%2C%22netDns%22%3A0%2C%22netTcp%22%3A0%2C%22srv%22%3A1%2C%22dom%22%3A381%2C%22loadEvent%22%3A5816%2C%22qid%22%3A%22%22%2C%22bdDom%22%3A0%2C%22bdRun%22%3A0%2C%22bdDef%22%3A0%7D&amp;et=87&amp;fl=17.0&amp;ja=1&amp;ln=zh-CN&amp;lo=0&amp;lt=1433991568&amp;nv=1&amp;rnd=1666474180&amp;si=478a545b1304d1c78ecf8fa7a9ef656f&amp;st=1&amp;v=1.0.94&amp;lv=2&amp;tt=%E7%8C%AB%E6%89%91-%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E7%9A%84%E7%BD%91%E7%BB%9C%E7%A4%BE%E5%8C%BA" name="Cache-Control">private, max-age=0, no-cache</headers>
+      <headers name="Content-Length">43</headers>
+    </type>
+  </domain>
+  <domain URL="cpro.baidustatic.com">
+    <type ConnectType="application/x-javascript">
+      <headers URL="http://cpro.baidustatic.com/cpro/ui/c.js" name="Cache-Control">max-age=3600</headers>
+      <headers name="Connection">close</headers>
+      <headers name="Content-Length">27970</headers>
+      <headers name="Expires">Thu, 11 Jun 2015 03:27:42 GMT</headers>
+      <headers name="Last-Modified">Tue, 09 Jun 2015 03:55:20 GMT</headers>
+      <headers name="Content-Encoding">gzip</headers>
+    </type>
+  </domain>
+  <domain URL="cm.yigao.com">
+    <type ConnectType="text/html; charset=utf-8">
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">108</headers>
+    </type>
+  </domain>
+  <domain URL="weibo.com">
+    <type ConnectType="text/html">
+      <headers URL="http://weibo.com/aj/static/sync.html?t=1433991568904" name="Cache-Control">max-age=120</headers>
+      <headers name="Connection">close</headers>
+      <headers name="Expires">Thu, 11 Jun 2015 03:00:39 GMT</headers>
+      <headers name="Last-Modified">Wed, 31 Dec 2014 03:33:46 GMT</headers>
+      <headers name="Content-Encoding">gzip</headers>
+      <headers name="Vary">Accept-Encoding</headers>
+    </type>
+  </domain>
+  <domain URL="s.cpro.baidu.com">
+    <type ConnectType="text/html">
+      <headers name="Content-Length">15</headers>
+      <headers name="Last-Modified">Wed, 27 Mar 2013 08:20:59 GMT</headers>
+    </type>
+  </domain>
+  <domain URL="i1.mopimg.cn">
+    <type ConnectType="image/gif">
+      <headers URL="http://i1.mopimg.cn/img/www-admin/2015-06/1233/20150609112055970.gif80x60.gif" name="Cache-Control">max-age=604800</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">733952</headers>
+      <headers name="Expires">Thu, 18 Jun 2015 00:14:13 GMT</headers>
+      <headers name="Last-Modified">Tue, 09 Jun 2015 03:20:56 GMT</headers>
+    </type>
+    <type ConnectType="image/png">
+      <headers URL="http://i1.mopimg.cn/img/cms-web/2015-05/738/20150522164947361.png110x110.png" name="Cache-Control">max-age=604800</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">24553</headers>
+      <headers name="Expires">Thu, 18 Jun 2015 00:14:08 GMT</headers>
+      <headers name="Last-Modified">Fri, 22 May 2015 08:49:47 GMT</headers>
+    </type>
+    <type ConnectType="text/css">
+      <headers URL="http://i1.mopimg.cn/public/css/topbar.css?v=2.2.2" name="Cache-Control">max-age=604800</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">8468</headers>
+      <headers name="Expires">Thu, 18 Jun 2015 00:05:33 GMT</headers>
+      <headers name="Last-Modified">Thu, 04 Jun 2015 08:09:58 GMT</headers>
+      <headers name="Vary">Accept-Encoding</headers>
+    </type>
+    <type ConnectType="image/jpeg">
+      <headers URL="http://i1.mopimg.cn/img/www-admin/2015-06/1042/20150609181819949.jpg80x60.jpg" name="Cache-Control">max-age=604800</headers>
+      <headers URL="http://i1.mopimg.cn/home/images/avatar.jpg" name="Cache-Control">max-age=2592000</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">12948</headers>
+      <headers name="Expires">Thu, 18 Jun 2015 00:14:12 GMT</headers>
+      <headers name="Last-Modified">Tue, 09 Jun 2015 10:18:19 GMT</headers>
+    </type>
+  </domain>
+  <domain URL="ope.tanx.com">
+    <type ConnectType="application/x-javascript;charset=GB2312">
+      <headers URL="http://ope.tanx.com/ex?i=mm_31791272_3084562_26820418&amp;cb=jsonp_callback_40185&amp;callback=&amp;userid=&amp;o=&amp;f=&amp;n=&amp;re=1366x768&amp;r=1&amp;cah=728&amp;caw=1366&amp;ccd=24&amp;ctz=8&amp;chl=1&amp;cja=1&amp;cpl=0&amp;cmm=0&amp;cf=10.0&amp;cg=ae20669f03d10f05e28db949fa2e796b&amp;pvid=ad899e6a70a8388754bfb2c0624b24d6&amp;ai=0&amp;ac=7827&amp;prn=20994340&amp;cas=prn&amp;cbh=90&amp;cbw=320&amp;dx=1&amp;u=http%3A%2F%2Fwww.mop.com%2F&amp;k=&amp;tt=" name="Cache-Control">no-cache</headers>
+      <headers name="Connection">close</headers>
+      <headers name="Expires">Thu, 11 Jun 2015 02:58:38 GMT</headers>
+    </type>
+  </domain>
+  <domain URL="atanx.alicdn.com">
+    <type ConnectType="application/x-javascript">
+      <headers URL="http://atanx.alicdn.com/t/tanxssp.js" name="Cache-Control">max-age=7200</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">3389</headers>
+      <headers name="Expires">Thu, 11 Jun 2015 03:29:24 GMT</headers>
+      <headers name="Last-Modified">Wed, 10 Jun 2015 06:25:09 GMT</headers>
+      <headers name="Content-Encoding">gzip</headers>
+      <headers name="Vary">Accept-Encoding</headers>
+    </type>
+  </domain>
+  <domain URL="eclick.baidu.com">
+    <type ConnectType="text/html">
+      <headers URL="http://eclick.baidu.com/fp.htm?ci=CA7D64233CD00A15B4CFFA2735B52EF0%3AFG%3D1&amp;cn=CA7D64233CD00A15B4CFFA2735B52EF0%3AFG%3D1&amp;cu=&amp;cl=CA7D64233CD00A15B4CFFA2735B52EF0%3AFG%3D1&amp;cf=&amp;ce=CA7D64233CD00A15B4CFFA2735B52EF0&amp;ff=u&amp;cuid=&amp;cuid2=&amp;de=&amp;nip=&amp;_=1433991571066" name="Cache-Control">max-age=0</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">114</headers>
+      <headers name="Expires">Thu, 11 Jun 2015 02:58:41 GMT</headers>
+      <headers name="Last-Modified">Tue, 09 Jun 2015 03:55:20 GMT</headers>
+    </type>
+  </domain>
+  <domain URL="df.tanx.com">
+    <type ConnectType="image/gif">
+      <headers URL="http://df.tanx.com/dsp?pid=mm_31791272_3084562_25764946&amp;bid=0a67267d00005578f95f4e6309163b1d&amp;nid=29628860&amp;tanxssp_t=67331" name="Cache-Control">no-cache</headers>
+      <headers name="Connection">close</headers>
+      <headers name="Expires">Thu, 11 Jun 2015 02:58:38 GMT</headers>
+    </type>
+  </domain>
+  <domain URL="cpro2.baidustatic.com">
+    <type ConnectType="image/png">
+      <headers URL="http://cpro2.baidustatic.com/cpro/ui/noexpire/img/2.0.1/bg.png" name="Cache-Control">max-age=315360000</headers>
+      <headers name="Connection">close</headers>
+      <headers name="Content-Length">1804</headers>
+      <headers name="Expires">Mon, 19 Aug 2024 06:45:36 GMT</headers>
+      <headers name="Last-Modified">Thu, 14 Aug 2014 14:00:01 GMT</headers>
+    </type>
+  </domain>
+  <domain URL="cm.allyes.com">
+    <type ConnectType="text/html">
+      <headers name="Connection">close</headers>
+      <headers name="Content-Length">0</headers>
+    </type>
+  </domain>
+  <domain URL="static.mediav.com">
+    <type ConnectType="application/x-javascript; charset=utf-8">
+      <headers URL="http://static.mediav.com/js/mvf_dsp.js" name="Cache-Control">max-age=259200</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Expires">Mon, 20 Apr 2015 05:18:11 GMT</headers>
+      <headers name="Last-Modified">Sun, 28 Sep 2014 07:07:38 GMT</headers>
+      <headers name="Content-Encoding">gzip</headers>
+      <headers name="Vary">Accept-Encoding</headers>
+    </type>
+    <type ConnectType="image/gif">
+      <headers URL="http://static.mediav.com/1x1.gif" name="Cache-Control">max-age=259200</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Expires">Sat, 18 Apr 2015 04:25:17 GMT</headers>
+      <headers name="Last-Modified">Sun, 05 Dec 2010 02:13:18 GMT</headers>
+      <headers name="Content-Encoding">gzip</headers>
+      <headers name="Vary">Accept-Encoding</headers>
+    </type>
+  </domain>
+  <domain URL="i2.mopimg.cn">
+    <type ConnectType="text/css">
+      <headers URL="http://i2.mopimg.cn/public/css/base.css?v=2.2.2" name="Cache-Control">max-age=604800</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">95141</headers>
+      <headers name="Expires">Wed, 17 Jun 2015 14:45:08 GMT</headers>
+      <headers name="Last-Modified">Thu, 04 Jun 2015 08:09:58 GMT</headers>
+      <headers name="Vary">Accept-Encoding</headers>
+    </type>
+    <type ConnectType="image/jpeg">
+      <headers URL="http://i2.mopimg.cn/img/cms-web/2015-06/376/2015061110534340.jpg320x345.jpg" name="Cache-Control">max-age=604800</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">22922</headers>
+      <headers name="Expires">Thu, 18 Jun 2015 02:55:02 GMT</headers>
+      <headers name="Last-Modified">Thu, 11 Jun 2015 02:53:43 GMT</headers>
+    </type>
+  </domain>
+  <domain URL="ec.pos.baidu.com">
+    <type ConnectType="text/javascript;charset=UTF-8">
+      <headers URL="http://ec.pos.baidu.com/b.php" name="Cache-Control">private, must-revalidate, proxy-revalidate</headers>
+      <headers name="Connection">keep-alive</headers>
+    </type>
+  </domain>
+  <domain URL="imgpub.mop.com">
+    <type ConnectType="image/jpeg">
+      <headers URL="http://imgpub.mop.com/mt/widget/6a/6e/63/636e6a597a/84650394/58357438104657446.ori.jpg" name="Cache-Control">max-age=7776000</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">27571</headers>
+      <headers name="Expires">Wed, 09 Sep 2015 02:48:54 GMT</headers>
+      <headers name="Last-Modified">Tue, 09 Jun 2015 03:29:36 GMT</headers>
+    </type>
+  </domain>
+  <domain URL="wn.pos.baidu.com">
+    <type ConnectType="image/gif">
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">49</headers>
+      <headers name="Expires">Mon, 26 Jul 1997 05:00:00 GMT</headers>
+    </type>
+  </domain>
+  <domain URL="hm.baidu.com">
+    <type ConnectType="application/javascript">
+      <headers URL="http://hm.baidu.com/h.js?478a545b1304d1c78ecf8fa7a9ef656f" name="Cache-Control">max-age=0, must-revalidate</headers>
+      <headers name="Content-Length">8291</headers>
+      <headers name="Content-Encoding">gzip</headers>
+    </type>
+  </domain>
+  <domain URL="xd.mediav.com">
+    <type ConnectType="image/gif">
+      <headers URL="http://xd.mediav.com/s?type=1&amp;r=15&amp;cus=336_784901_7733416_47723482&amp;impid=LKPiB4inWUj=&amp;tid=VllJUDFOOUlQYjA9&amp;finfo=DAABCAABAAAAhAgAAgAAAHMEAAM/Ry+EZgEd4QAIAAIAAAADCgADBkz6hRVBOgAIAAQAAAC6BgAGN64IAAgAEiCgCgAJAAAAAAAAAAgA&amp;price=AQpnJn0AAFV4%2BV9OYwkWOx3ot%2Bn7D%2FBWog%3D%3D" name="Cache-Control">no-cache, must-revalidate</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">43</headers>
+    </type>
+  </domain>
+  <domain URL="p.tanx.com">
+    <type ConnectType="application/x-javascript; charset=gbk">
+      <headers URL="http://p.tanx.com/ex?i=mm_31791272_3084562_26820418" name="Cache-Control">no-cache</headers>
+      <headers name="Connection">close</headers>
+      <headers name="Expires">Thu, 11 Jun 2015 02:58:37 GMT</headers>
+      <headers name="Content-Encoding">gzip</headers>
+      <headers name="Vary">Accept-Encoding</headers>
+    </type>
+  </domain>
+  <domain URL="i3.mopimg.cn">
+    <type ConnectType="image/png">
+      <headers URL="http://i3.mopimg.cn/home/images/bg-ico.png" name="Cache-Control">max-age=604800</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">10329</headers>
+      <headers name="Expires">Thu, 18 Jun 2015 01:09:59 GMT</headers>
+      <headers name="Last-Modified">Thu, 04 Jun 2015 08:09:58 GMT</headers>
+    </type>
+    <type ConnectType="text/css">
+      <headers URL="http://i3.mopimg.cn/home/css/style.css?v=2.2.2" name="Cache-Control">max-age=604800</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">25203</headers>
+      <headers name="Expires">Thu, 18 Jun 2015 00:05:33 GMT</headers>
+      <headers name="Last-Modified">Thu, 04 Jun 2015 08:09:58 GMT</headers>
+      <headers name="Vary">Accept-Encoding</headers>
+    </type>
+    <type ConnectType="image/jpeg">
+      <headers URL="http://i3.mopimg.cn/img/cms-web/2015-04/1253/20150430104347470.jpg110x110.jpg" name="Cache-Control">max-age=604800</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">9678</headers>
+      <headers name="Expires">Thu, 18 Jun 2015 00:14:08 GMT</headers>
+      <headers name="Last-Modified">Thu, 30 Apr 2015 02:43:47 GMT</headers>
+    </type>
+  </domain>
+  <domain URL="www.mop.com">
+    <type ConnectType="text/html; charset=utf-8">
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Expires">Thu, 11 Jun 2015 03:03:34 GMT</headers>
+      <headers name="Content-Encoding">gzip</headers>
+      <headers name="Vary">Accept-Encoding</headers>
+    </type>
+    <type ConnectType="application/json; charset=UTF-8">
+      <headers URL="http://www.mop.com/ajax/tongji?callback=jQuery183017028142985937195_1433991567495" name="Cache-Control">no-cache</headers>
+      <headers name="Connection">close</headers>
+      <headers name="Content-Length">49</headers>
+    </type>
+  </domain>
+  <domain URL="material.mediav.com">
+    <type ConnectType="application/x-shockwave-flash">
+      <headers URL="http://material.mediav.com/galileo/20150609/9db1e5e4415b0dc56f55f8a539d1d7d1.swf" name="Cache-Control">max-age=31536000</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">40753</headers>
+      <headers name="Expires">Wed, 08 Jun 2016 03:18:04 GMT</headers>
+      <headers name="Last-Modified">Tue, 09 Jun 2015 03:12:15 GMT</headers>
+    </type>
+    <type ConnectType="image/png">
+      <headers URL="http://material.mediav.com/bjjs/dsp/mediav1.png" name="Cache-Control">max-age=1296000</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Expires">Sat, 18 Apr 2015 02:08:44 GMT</headers>
+      <headers name="Last-Modified">Thu, 11 Oct 2012 10:03:01 GMT</headers>
+      <headers name="Content-Encoding">gzip</headers>
+      <headers name="Vary">Accept-Encoding</headers>
+    </type>
+  </domain>
+  <domain URL="release.baidu.com">
+    <type ConnectType="text/html">
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">2047</headers>
+      <headers name="Last-Modified">Tue, 09 Jun 2015 03:55:19 GMT</headers>
+    </type>
+  </domain>
+  <domain URL="cms.tanx.com">
+    <type ConnectType="image/gif">
+      <headers name="Connection">close</headers>
+      <headers name="Content-Length">49</headers>
+    </type>
+  </domain>
+  <domain URL="cdn.tanx.com">
+    <type ConnectType="text/html; charset=GB2312">
+      <headers URL="http://cdn.tanx.com/t/acookie/acbeacon2.html" name="Cache-Control">max-age=7200</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">1536</headers>
+      <headers name="Expires">Thu, 11 Jun 2015 03:02:55 GMT</headers>
+      <headers name="Last-Modified">Wed, 10 Jun 2015 06:25:09 GMT</headers>
+      <headers name="Content-Encoding">gzip</headers>
+      <headers name="Vary">Accept-Encoding</headers>
+    </type>
+  </domain>
+  <domain URL="cm.l.qq.com">
+    <type ConnectType="text/html;charset=GB2312">
+      <headers name="Connection">close</headers>
+    </type>
+  </domain>
+  <domain URL="cm.emarbox.com">
+    <type ConnectType="text/html; charset=utf-8">
+      <headers URL="http://cm.emarbox.com/_cm?tuid=AQGoJ+2z9mkrvQL5kCKZpqkV5mjswitfJbU=&amp;ver=1" name="Cache-Control">private</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">198</headers>
+    </type>
+  </domain>
+  <domain URL="log.mmstat.com">
+    <type ConnectType="image/gif">
+      <headers URL="http://log.mmstat.com/t.gif?cna=5lOhDfV6OiACAdOhZrUD/gpG&amp;cache=700" name="Cache-Control">no-cache</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">43</headers>
+      <headers name="Expires">Thu, 01 Jan 1970 00:00:01 GMT</headers>
+    </type>
+  </domain>
+  <domain URL="pub.mop.com">
+    <type ConnectType="text/html; charset=UTF-8">
+      <headers URL="http://pub.mop.com/widget.jsp?bId=2425" name="Cache-Control">no-cache</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">201</headers>
+      <headers name="Expires">Thu, 01 Dec 1994 16:00:00 GMT</headers>
+      <headers name="Content-Encoding">gzip</headers>
+    </type>
+  </domain>
+  <domain URL="i5.mopimg.cn">
+    <type ConnectType="application/x-javascript">
+      <headers URL="http://i5.mopimg.cn/dest/public/articles.js" name="Cache-Control">max-age=604800</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Expires">Thu, 18 Jun 2015 02:56:06 GMT</headers>
+      <headers name="Last-Modified">Thu, 04 Jun 2015 08:09:57 GMT</headers>
+      <headers name="Content-Encoding">gzip</headers>
+      <headers name="Vary">Accept-Encoding</headers>
+    </type>
+    <type ConnectType="image/jpeg">
+      <headers URL="http://i5.mopimg.cn/img/cms-web/2015-06/304/20150608182136812.jpg150x100.jpg" name="Cache-Control">max-age=604800</headers>
+      <headers name="Connection">keep-alive</headers>
+      <headers name="Content-Length">54815</headers>
+      <headers name="Expires">Wed, 17 Jun 2015 15:22:26 GMT</headers>
+      <headers name="Last-Modified">Mon, 08 Jun 2015 10:21:36 GMT</headers>
+    </type>
+  </domain>
+</WebReport>
